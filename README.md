@@ -46,10 +46,31 @@ Here are some ideas to get you started:
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 
 
+### Projects and Dev Stuffs:
+<details>       
+  <summary><b>📈 Github Stats</b></summary>
+  <br />
 
-## 📈Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chaitanyasai-2021&show_icons=true&theme=default"/>
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyasai-2021&layout=compact"/>
+
+</details>
+
+
+<details>       
+
+  <summary><b>☄️ Github Streaks</b></summary>
+
+  <br />
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyasai-2021&hide_border=true" />
+
+</details>
+
+#
+
+<div align="center">
 
 
 
