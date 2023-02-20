@@ -75,6 +75,9 @@ Here are some ideas to get you started:
 #
 
 <div align="center">
+  
+  
+![Visitor Count](https://profile-counter.glitch.me/{chaitanyasai-2021}/count.svg)
 
 
 
