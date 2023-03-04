@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 ## Hey 👋, I'm [Chaitanya Sai!](https://github.com/chaitanyasai-2021/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyanutakki/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/chaitanya_nutakki/)
+
 
 
 
 ## About Me
 - 🌱 I’m currently learning Flutter 
 - 🤔 I’m looking for help with Flutter
+- 📫 You can reach me by email: chaitanyasai2021@gmail.com 
 
 
 ## 🛠Technology Stack
