@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey 👋, I'm [Chaitanya Sai!](https://github.com/chaitanyasai-2021/)
+## Hey 👋, I'm [Chaitanya Sai Nutakki!](https://github.com/chaitanyasai-2021/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyanutakki/)
 
