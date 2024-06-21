@@ -37,7 +37,7 @@ I thrive on learning new topics in data science, visualizing data, and conductin
 
 &nbsp;&nbsp;&nbsp;&nbsp;If you like what I do, maybe consider buying me a coffee/tea..
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a>
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/mirsazzat" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px" width="160px" style="margin-left: 10px" ></a> -->
 <be>
 
 
