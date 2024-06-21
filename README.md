@@ -10,8 +10,15 @@ I am actively engaged in building projects that focus on exploratory data analys
 
 I thrive on learning new topics in data science, visualizing data, and conducting research 🤓. Sharing valuable insights and making an impact to help others learn is something I truly enjoy 🧐. I am always open to discussions, so feel free to reach out with questions or concerns 💬.
 
-<p><a href="https://www.facebook.com//"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/chaitanyanutakki/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="mailto:chaitanyasai2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a> <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a></p>
+<p>
+    <a href="https://www.linkedin.com/in/chaitanyanutakki/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+    <a href="mailto:chaitanyasai2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+    <a href="mailto:chaitanyasai@zoho.eu"><img src="https://img.shields.io/badge/ZohoMail-EA0B19.svg?&style=for-the-badge&logo=zoho&logoColor=bold" height=25></a>
+</p>
 <br>
+
+
 
 ## ⚡ A Few Quick Facts:
 
@@ -24,7 +31,7 @@ I thrive on learning new topics in data science, visualizing data, and conductin
 - 💬 Ask me about anything related to the latest tech.
 - 📫 How to reach me: [Gmail](mailto:chaitanyasai2021@gmail.com)
 - 😄 Pronouns: He/Him
-- 🧾 Check out my [resume](https://mirsazzathossain.me/files/mirsazzathossain-cv.pdf).
+- 🧾 Check out my [resume](https).
 - 📝 I often write articles on [my blog](https:).
 - ⚡ Fun fact: I have become too lazy to write a blog post these days.. 🤣
 
