@@ -14,7 +14,7 @@ I thrive on learning new topics in data science, visualizing data, and conductin
     <a href="https://www.linkedin.com/in/chaitanyanutakki/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
     <a href="mailto:chaitanyasai2021@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
     <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-    <a href="mailto:chaitanyasai@zoho.eu"><img src="https://img.shields.io/badge/ZohoMail-EA0B19.svg?&style=for-the-badge&logo=zoho&logoColor=bold" height=25></a>
+    <a href="mailto:chaitanyasai@zohomail.eu"><img src="https://img.shields.io/badge/ZohoMail-EA0B19.svg?&style=for-the-badge&logo=zoho&logoColor=bold" height=25></a>
 </p>
 <br>
 
