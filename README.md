@@ -1,7 +1,8 @@
 <!-- header image -->
 <a href="#"><img width="100%" height="auto" src="header.png" height="175px"/></a>
 
-## Hey 👋, I'm [Chaitanya Sai Nutakki!](https://github.com/chaitanyasai-2021/) </a> <img src="https://komarev.com/ghpvc/?username=chaitanyasai-2021" height="20px">
+## Hey 👋, I'm [Chaitanya Sai Nutakki!](https://github.com/chaitanyasai-2021/)
+![Visitor Count](https://profile-counter.glitch.me/{chaitanyasai-2021}/count.svg)
 
 I am Chaitanya Sai, currently pursuing a Bachelor of Technology in Computer Science and Engineering with a specialization in Big Data at SRM University AP 🎓.
 
