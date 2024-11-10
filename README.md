@@ -99,9 +99,10 @@ I have explored various domains, including **Web Development** (as a Front-End D
 
 ## 📊 GitHub Stats:
 
-<img alt="Chaitanya's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyasai-2021&theme=white&&hide_border=true" width="48%" align="left" /> 
-<img alt="Chaitanya's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=chaitanyasai-2021&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="48%" align="right" />
+<img alt="Chaitanya's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyasai-2021&theme=white&&hide_border=true" width="45%" align="left" /> 
+<img alt="Chaitanya's GitHub Stats" src="https://github-readme-stats-mauve-ten.vercel.app/api?username=chaitanyasai-2021&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="45%" align="right" />
 <br>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thank%20you%20for%20visiting&fontColor=FFFFFF&fontSize=20&gradient=8e9eab_abb2b9"/>
