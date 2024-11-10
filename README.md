@@ -2,12 +2,16 @@
 <a href="#"><img width="100%" height="auto" src="header.png" height="175px"/></a>
 
 ## Hey 👋, I'm [Chaitanya Sai Nutakki!](https://github.com/chaitanyasai-2021/)
-![Visitor Count](https://profile-counter.glitch.me/{chaitanyasai-2021}/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/{chaitanyasai-2021}/count.svg) <img align="right" alt="Top Languages Used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyasai-2021&layout=compact&theme=white&hide_border=true" width="40%" />
 
 I am Chaitanya Sai, currently pursuing a Bachelor of Technology in Computer Science and Engineering with a specialization in Big Data at SRM University AP 🎓.
 
 Aspiring to become a Data Scientist, I am also passionate about UI/UX design and developing apps using Flutter. Additionally, I am exploring Microsoft Azure to enhance my skills in cloud computing and data services ☁️🔷.
-I am actively engaged in building projects that focus on exploratory data analysis, machine learning, and Flutter applications 💻🔥. My research interests encompass natural language processing, transfer learning, deep learning, and machine learning ✨. 
+I am actively engaged in building projects that focus on exploratory data analysis, machine learning, and Flutter applications 💻🔥. 
+
+
+My research interests encompass natural language processing, transfer learning, deep learning, and machine learning ✨. 
 
 I thrive on learning new topics in data science, visualizing data, and conducting research 🤓. Sharing valuable insights and making an impact to help others learn is something I truly enjoy 🧐. I am always open to discussions, so feel free to reach out with questions or concerns 💬.
 
