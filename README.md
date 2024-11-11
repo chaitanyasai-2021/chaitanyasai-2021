@@ -55,6 +55,15 @@ I have explored various domains, including **Web Development** (as a Front-End D
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
 </p>
 
+## **📊 Data Visualization & Analysis**
+<p align="center"> 
+<img alt="Microsoft Power BI" src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black"/>
+<img alt="Excel" src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white"/>
+<img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=MySQL&logoColor=white"/>
+</p>
+
 ## **📱 App Development**
 <p align="center"> 
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />
@@ -90,7 +99,6 @@ I have explored various domains, including **Web Development** (as a Front-End D
 <p align="center"> 
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
-<img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black" />
 <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
 <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" />
 </p>
